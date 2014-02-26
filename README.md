@@ -1,7 +1,11 @@
 according-to-pete
 =================
 
-A place for working on transcripts and adjunct materials for According to Pete videos.
+THIS REPOSITORY IS DEPRECATED.  Please see our general
+[YouTube Captions](https://github.com/sparkfun/YouTube_Captions/) repo instead.
+
+This was a place for working on closed captioning for the "According to Pete" series
+of videos from SparkFun.
 
 Content Organization in this Repository:
 ========================================
